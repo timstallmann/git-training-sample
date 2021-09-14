@@ -7,3 +7,5 @@ John:
 Libby:
 
 Mad:
+
+Tim: Teaching git is hard!
