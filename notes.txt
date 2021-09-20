@@ -8,4 +8,4 @@ Libby:
 
 Mad:
 
-Tim: Teaching git is hard!
+Tim: Teaching git is hard! I'm excited about part 2.
